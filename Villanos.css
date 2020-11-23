@@ -1,0 +1,65 @@
+.evil{
+    text-align: center;
+}
+.dragon{
+    margin-top: 20px;
+    border-radius: 10px;
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+.dragon:hover{
+    transform: scale(1.1);
+}
+.azog{
+    border-radius: 10px;
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+.azog:hover{
+    transform: scale(1.1);
+}
+.trasgo{
+    border-radius: 10px;
+    margin-top: 20px;
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+.trasgo:hover{
+    transform: scale(1.1); 
+}
+.primermain{
+    margin-top: 50px;
+}
+.tercermain{
+    margin-top:30px;
+}
+.hobbit{
+    text-align: center;
+    font-size: 6em;
+}
+.villanos{
+    text-align: center;
+}
+.bolgo{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.huargo{
+   
+    border-radius: 10px;
+}
+.trasgos{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.gollum{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.araña{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.octavo{
+    margin-top: 25px;
+}
