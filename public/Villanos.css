@@ -1,5 +1,7 @@
 .evil{
     text-align: center;
+    font-family: Brush Script MT;
+    color:darkblue;
 }
 .dragon{
     margin-top: 20px;
@@ -39,9 +41,11 @@
 }
 .villanos{
     text-align: center;
+    font-family: Brush Script MT;
+    color: darkblue;
 }
 .bolgo{
-    margin-top: 20px;
+    margin-top: 10px;
     border-radius: 10px;
 }
 .huargo{
@@ -61,5 +65,40 @@
     border-radius: 10px;
 }
 .octavo{
+    margin-top: 15px;
+    color: white;
+}
+.smigol{
+    margin-top: 35px;
+}
+.spider{
+    margin-top: 35px;
+    color: white;
+}
+.lol{
+    margin-top: 35px;
+    color: white;
+}
+.smaug{
     margin-top: 25px;
+    color: white;
+}
+.gordo{
+    margin-top: 25px;
+    color: white;
+}
+body{
+    background-image:url('https://i.ytimg.com/vi/NFOXctlImL0/maxresdefault.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.azorun{
+    color: white;
+}
+.loboo{
+    color: white;
+}
+#hojaa:hover{
+    background-color: lightblue;
 }
